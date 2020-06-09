@@ -1,0 +1,205 @@
+body{
+    margin-top: 0px;
+    background-image: linear-gradient(125deg,#f54291,#bc658d,#9a1f40,#32e0c4,#63b7af);
+    background-size: 400%;
+    animation:bganimation 15s infinite;
+    text-align: center;
+    padding-top: 100px;
+    position: relative;
+    padding-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+@keyframes bganimation {
+ 0%{
+     background-position: 0% 50%;
+ }
+ 50%{
+     background-position: 100% 50%;
+ }
+ 100%{
+     background-position: 0% 50%;
+ }
+}
+.h{
+    font-family: 'Sacramento', cursive;
+    color: #562349;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 60px;
+    font-size: 100px;
+    
+}
+p{
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    color:#ad6989
+    
+}
+.b-cloud{
+    position: absolute;
+    top:300px;
+    left: 200px;
+}
+.a-cloud{
+    position: absolute;
+    right: 350px;
+    top: 200px;
+}
+div{
+    margin-top: 0px;
+    
+    border: 0px;
+    margin-bottom: 0px;
+    height: 600px;
+
+}
+.mt{
+    position: absolute;
+    top: 245px;
+    left: 300px;
+}
+.p{
+    font-size: 26px;
+}
+.me{
+
+margin: 0 40px 0 200px;
+height: 300px;
+padding-bottom: 50px;
+padding-top: 50px;
+
+}
+.mypic{
+    width: 300px;
+    float: left;
+}
+.q1{
+    font-size: 40px;
+    color: #ffd31d;
+    margin: 0em;
+    padding-right: 800px;
+    font-style: oblique;
+    font-family: 'Hi Melody', cursive;
+}
+.mypara{
+    font-size: 20px;
+    color: aliceblue;
+    width: 800px;
+}
+
+.ints{
+    width: 100px;
+    height: 100px;
+    padding: 0 50px 0 50px;
+}
+.q2{
+    font-size: 40px;
+    color: #ffd31d;
+    font-style: oblique;
+    font-family: 'Hi Melody', cursive;
+    margin-bottom: 10px;
+    padding-left: 500px;
+}
+.int{
+    height: 200px;
+}
+.int2{
+     ;
+    height: 10px;
+}
+.spa{
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size: 20px;
+   color: aliceblue;
+   font-family: 'Tenali Ramakrishna', sans-serif;
+}
+.spa1{
+    padding-right: 60px;
+    padding-left: 100px;
+    font-size: 20px;
+    color: aliceblue;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+}
+.spa2{
+    padding-left: 40px;
+    font-size: 20px;
+    color: aliceblue;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+}
+.spa3{
+    padding-left: 80px;
+    font-size: 20px;
+    color: aliceblue;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+}
+.updiv{
+    background-color: paleturquoise;
+}
+.bye{
+    height: 15px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    font-size: 25px;
+    padding-top: 80px;
+}
+.lastp{
+    color: white;
+    text-decoration: underline;
+}
+.ding{
+    width: 50px;
+    padding: left 150px; ;
+}
+.dong{
+    width: 50px;
+    padding-right: 300px;
+}
+.dd{
+    font-size: 18px;
+    color: white;
+    width: 1000px;
+    padding-left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.yo{
+    height: 70px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.contact{
+    background-color: #63b7af9f;
+    height: 80px;
+    margin-top: 40px;
+    padding-top: 09px;
+    padding-bottom: 35px;
+}
+.instalogo{
+width: 40px;
+padding-right: 50px;
+
+}
+.maillogo{
+    width: 50px;
+    padding-left: 60px;
+}
+
+.instalogo:hover{
+
+    transition: 0.5s;
+}
+.maillogo:hover{
+    
+    transition: 0.5s;
+}
+.note{
+    text-align: center;
+    color: #ffd31d;
+
+}
+.git{
+    color:white;
+}
